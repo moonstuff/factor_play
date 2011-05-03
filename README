@@ -1,0 +1,4 @@
+Various experiments with the Factor language
+
+Just add this directory to the FACTOR_ROOTS environment
+variable when you start Factor. Then you can "USE: x".
